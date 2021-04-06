@@ -32,14 +32,13 @@
 
 # CSS
 
-ngx-markdown is an [Angular](https://angular.io/) library that combines...
-- [Marked](http://marked.js.org/) to parse markdown to HTML
-- [Prism.js](http://prismjs.com/) for language syntax highlight
-- [Emoji-Toolkit](https://github.com/joypixels/emoji-toolkit) for emoji support
-- [KaTeX](https://katex.org/) for math expression rendering
+We are crazy, we are building mixed web components.
 
-Demo available @ [https://jfcere.github.io/ngx-markdown](https://jfcere.github.io/ngx-markdown)  
-StackBlitz available @ [https://stackblitz.com/edit/ngx-markdown](https://stackblitz.com/edit/ngx-markdown)
+Find your preference here.
+Bootstrap,
+Materialize,
+Semantic UI.
+
 
 ### Table of contents
 
