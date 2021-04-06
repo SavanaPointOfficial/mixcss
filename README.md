@@ -1,4 +1,4 @@
-# mixcss
+#Get Started with Mixcss
 
 
 
@@ -54,14 +54,14 @@ StackBlitz available @ [https://stackblitz.com/edit/ngx-markdown](https://stackb
 - [Contribution](#contribution)
 - [Support Development](#support-development)
 
-## Installation
+## Usage
 
 ### ngx-markdown
 
 To add ngx-markdown library to your `package.json` use the following command.
 
-```bash
-npm install ngx-markdown --save
+```html
+<link href="https://mixcss.savanapoint.tech/css/style.css" rel="stylesheet">
 ```
 
 As the library is using [Marked](https://github.com/chjj/marked) parser you will need to add `node_modules/marked/lib/marked.js` to your application.
