@@ -30,7 +30,7 @@
   </a>
 </p>
 
-# CSS
+# About Mixcss
 
 We are crazy, we are building mixed web components.
 
@@ -42,11 +42,10 @@ Semantic UI.
 
 ### Table of contents
 
-- [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
-- [Renderer](#renderer)
-- [Syntax highlight](#syntax-highlight)
+- [Demo](#demo)
+- [Regular Buttons](#reqgular-buttons)
+- [UI Semantic Buttons](#ui-semantic-buttons)
 - [Demo application](#demo-application)
 - [AoT compilation](#aot-compilation)
 - [Road map](#road-map)
