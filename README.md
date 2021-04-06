@@ -1,4 +1,4 @@
-#Get Started with Mixcss
+# Get Started with Mixcss
 
 
 
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-# ngx-markdown
+# CSS
 
 ngx-markdown is an [Angular](https://angular.io/) library that combines...
 - [Marked](http://marked.js.org/) to parse markdown to HTML
@@ -56,12 +56,22 @@ StackBlitz available @ [https://stackblitz.com/edit/ngx-markdown](https://stackb
 
 ## Usage
 
-### ngx-markdown
+### CSS
 
 To add ngx-markdown library to your `package.json` use the following command.
 
 ```html
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 <link href="https://mixcss.savanapoint.tech/css/style.css" rel="stylesheet">
+```
+
+
+### JAVASCRIPT
+
+To add ngx-markdown library to your `package.json` use the following command.
+
+```html
+<script src="https://mixcss.savanapoint.tech/js/mix.js" type="text/javascript"></script>
 ```
 
 As the library is using [Marked](https://github.com/chjj/marked) parser you will need to add `node_modules/marked/lib/marked.js` to your application.
